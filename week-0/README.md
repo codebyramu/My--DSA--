@@ -1,0 +1,63 @@
+# Week 0 — Abdul Bari DSA (C/C++)
+Foundational C/C++ concepts before starting core DSA — arrays, structures, pointers, functions, parameter passing, intro OOP, templates
+
+- [x] Introduction (5m)
+- [x] Arrays Basics (10m)
+- [x] Practice: Arrays Basics (5m)
+- [x] Structures (8m)
+- [x] Practice: Structures (5m)
+- [x] Pointers (12m)
+- [x] Practice: Pointers (6m)
+- [x] Reference in C++ (7m)
+- [x] Practice: Reference (4m)
+- [x] Pointer to Structure (9m)
+- [x] Practice: Pointer to Structure (5m)
+- [x] Functions (11m)
+- [x] Practice: Functions (5m)
+- [x] Parameter Passing Methods (15m)
+- [x] Practice: Parameter Passing Methods (8m)
+- [x] Array as Parameter (10m)
+- [x] Practice: Array as Parameter (6m)
+- [x] Structure as Parameter (12m)
+- [x] Practice: Structure as Parameter (6m)
+- [x] Structures and Functions (9m)
+- [x] Converting a C program to a C++ class (11m)
+- [x] Practice: Monolithic Program (4m)
+- [x] Practice: Modular Program (5m)
+- [x] Practice: Structure and Functions (6m)
+- [x] Practice: Object-Oriented Program (7m)
+- [x] C++ Class and Constructor (12m)
+- [x] Practice: C++ Class (6m)
+- [x] Template classes (14m)
+- [x] Practice: Template Class (8m)
+
+## Files
+- `intro.cpp`: basic hello-world setup
+- `arrays_basics.c`: initializing and iterating arrays
+- `arrays_basics_practice.c`: practice with array traversal
+- `structures.c`: basic struct definition
+- `structures_practice.c`: struct initialization and printing
+- `pointers.c`: pointer to variable and heap
+- `pointers_practice.c`: pointer array traversal
+- `references.cpp`: c++ references
+- `references_practice.cpp`: reference variable assignment
+- `pointer_to_structure.c`: struct heap allocation
+- `pointer_to_structure_practice.c`: practice heap structs
+- `functions.c`: basic function return
+- `functions_practice.c`: void function printing
+- `parameter_passing.c`: pass by pointer
+- `parameter_passing_practice.cpp`: pass by reference
+- `array_as_parameter.c`: passing arrays to functions
+- `array_as_parameter_practice.c`: returning heap array
+- `structure_as_parameter.c`: pass struct by value
+- `structure_as_parameter_practice.c`: pass struct by pointer
+- `structures_and_functions.c`: struct methods in c
+- `c_to_cpp_class.cpp`: converting c struct to c++ class
+- `monolithic_program.c`: single main block
+- `modular_program.c`: separated functions
+- `structure_and_functions_practice.c`: functions taking struct
+- `oop_practice.cpp`: class with public methods
+- `class_and_constructor.cpp`: class with parameterized constructor
+- `class_practice.cpp`: separate method definitions
+- `template_class.cpp`: generic template class
+- `template_class_practice.cpp`: template class with floats
